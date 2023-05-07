@@ -60,3 +60,13 @@ button{
     float: right;
 }
 
+/* --------------For Responsive-------------------- */
+
+@media (max-width:600px){
+    .main{
+        margin: 10px;
+    }
+    #single-task{
+        width: 250px;
+    }
+}
