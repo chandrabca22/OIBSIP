@@ -1,0 +1,45 @@
+@media (max-width:500px){
+    body{
+        /* background-color: black; */
+    }
+    .intro-left img{
+        width: 250px;
+    }
+    .intro-right h1{
+        font-size: 30px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .hero-left p{
+        font-size: 20px;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .hero-right img{
+        width: 250px;
+    }
+    .hero1-right p{
+        font-size: 20px;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .hero1-left img{
+        width: 280px;
+    }
+    .hero2-left p{
+        font-size: 20px;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .hero2-right img{
+        width: 280px;
+    }
+    .hero3-right p{
+        font-size: 20px;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .hero3-left img{
+        width: 280px;
+    }
+}
