@@ -64,9 +64,9 @@ button{
 
 @media (max-width:600px){
     .main{
-        margin: 10px;
+        margin: 15px;
     }
     #single-task{
-        width: 250px;
+        width: 200px;
     }
 }
